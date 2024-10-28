@@ -69,8 +69,6 @@ return 0;
 
 ![Screenshot 2024-10-28 084043](https://github.com/user-attachments/assets/28dfd4f0-27de-4c3c-8eb5-f338b071e098)
 
-# RESULT: 
-Thus the program executed and verified successfully. 
 
 ## RESULT: 
 Thus the code executed and verified successfully. 
