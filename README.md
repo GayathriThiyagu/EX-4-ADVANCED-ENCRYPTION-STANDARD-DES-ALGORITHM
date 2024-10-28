@@ -1,4 +1,4 @@
-# ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# IMPLEMENTATION OF DES ENCRYPTION AND DECRYPTION
 # Date: 
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
